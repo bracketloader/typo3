@@ -18,10 +18,10 @@ in order to set up a basic TYPO3 installation on your web server.
 What is TYPO3?
 --------------
 
-TYPO3 is a free and open source Content Management Framework. It is
+TYPO3 is a free and open-source Content Management Framework. It is
 released under the GNU General Public License. It can run on several web
-servers, such as Apache, nginx or IIS, on top of many operating systems,
-among them Linux, Microsoft Windows, FreeBSD or macOS.
+servers, such as Apache, nginx, or IIS, on top of many operating systems,
+among them Linux, Microsoft Windows, FreeBSD, or macOS.
 
 TYPO3 was initially authored by Kasper Skårhøj and is now further
 developed by a community of contributors and the [TYPO3 Core Development
@@ -45,7 +45,7 @@ extensions which are available for download, or by writing your own.
 TYPO3 System requirements
 -------------------------
 
-TYPO3 is based upon PHP and uses a database management system like
+TYPO3 is based on PHP and uses a database management system like
 MySQL.
 
 For more specific information regarding requirements see the file
@@ -114,7 +114,7 @@ Contributors Walkthrough and Review System:
 
 > Please use the [TYPO3 Slack chat](#chat-with-us), if you need help in
 > setting up your contribution environment. The community is very
-> helpful and get you up and running! (Please post your questions in
+> helpful and gets you up and running! (Please post your questions in
 > Slack Channel `#typo3-cms-coredev` regarding contribution support)
 
 The [repository at GitHub](https://github.com/typo3/typo3) is a
@@ -159,7 +159,7 @@ TYPO3 is about "Inspiring People To Share". If you are making money with
 TYPO3 you can donate or become a member of the
 [TYPO3 Association](https://typo3.org/association).
 
-By becoming a supporting member, individuals and organisations mainly
+By becoming a supporting member, individuals and organizations mainly
 fund core development of TYPO3. The decision about what the funds are
 used for, is made by all members of the Association and the TYPO3
 Association Board. The decisions will be made transparent to the community
